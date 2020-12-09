@@ -28,3 +28,16 @@ unlabeled_data -> results (1519 samples)
 1. results
 	- Sintering model developed by BK
 
+
+## Cite Paper
+Kapusuzoglu, Berkcan, and Sankaran Mahadevan. "Physics-Informed and Hybrid Machine Learning in Additive Manufacturing: Application to Fused Filament Fabrication." JOM (2020): 1-11.
+
+@article{berkcan2020PIML,
+  title={Physics-Informed and Hybrid Machine Learning in Additive Manufacturing: Application to Fused Filament Fabrication},
+  author={Kapusuzoglu, Berkcan and Mahadevan, Sankaran},
+  journal={JOM},
+  pages={1--11},
+  year={2020},
+  doi={https://doi.org/10.1007/s11837-020-04438-4},
+  publisher={Springer}
+}
