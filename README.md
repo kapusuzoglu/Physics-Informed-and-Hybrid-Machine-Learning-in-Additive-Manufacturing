@@ -38,6 +38,6 @@ Kapusuzoglu, Berkcan, and Sankaran Mahadevan. "Physics-Informed and Hybrid Machi
   journal={JOM},
   pages={1--11},
   year={2020},
-  doi={https://doi.org/10.1007/s11837-020-04438-4},
+  doi={https://doi.org/10.1007/s11837-020-04438-4}[link](https://link.springer.com/article/10.1007/s11837-020-04438-4#article-info),
   publisher={Springer}
 }
