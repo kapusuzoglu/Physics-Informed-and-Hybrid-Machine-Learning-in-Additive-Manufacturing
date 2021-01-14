@@ -1,4 +1,4 @@
-# Physics-Informed-Machine-Learning
+# Physics-Informed and Hybrid Machine Learning in Additive Manufacturing: Application to Fused Filament Fabrication
 Physics-based models are used to inform the deep learning models to better predict the quantity of interests.
 
 ## notebooks
